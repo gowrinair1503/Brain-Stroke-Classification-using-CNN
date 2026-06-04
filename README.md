@@ -36,6 +36,8 @@ Acknowledgments
 - Streamlit for interactive UI
 - Medical Imaging Datasets for training
 
+NEW UPDATE : MODEL IMAGE NOW AVAILABLE ON DOCKERHUB
+
 License
 - This project is open-source and available under the MIT License.
 
